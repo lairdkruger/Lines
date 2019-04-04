@@ -10,3 +10,5 @@ live demo at https://lairdkruger.github.io/Lines/
 controls:
 - double click for full screen mode
 - esc: exit full screen
+- scroll to zoom
+- click and drag to orbit
